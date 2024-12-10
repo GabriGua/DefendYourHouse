@@ -7,6 +7,8 @@ In this game you have to protect your house from the meteorogical event placing 
 
 **How do you play my game?**
 
+Click "Run" once you reach my game on the sprig editor:|
+
 It's pretty simple!\
 Click W-A-S-D to move around the cursor.\
 Click L to place a block in the white area, you can also reinforce a block placing one above another.\
