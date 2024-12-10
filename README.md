@@ -7,7 +7,7 @@ In this game you have to protect your house from the meteorogical event placing 
 
 **How do you play my game?**
 
-Click "Run" once you reach my game on the sprig editor:|
+Click "Run" once you reach my game on the sprig editor:\
 
 It's pretty simple!\
 Click W-A-S-D to move around the cursor.\
