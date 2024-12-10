@@ -7,10 +7,11 @@ In this game you have to protect your house from the meteorogical event placing 
 
 **How do you play my game?**
 
-It's pretty simple!
-Click W-A-S-D to move around the cursor.
-Click L to place a block in the white area, you can also reinforce a block placing one above another.
-Click J to start the events one by one.
-Click J once you lost to restart the scene.
-Then Click K to restart playing or during the events to restart placing blocks if you haven't placed them all!
-Survive!!!
+It's pretty simple!\
+Click W-A-S-D to move around the cursor.\
+Click L to place a block in the white area, you can also reinforce a block placing one above another.\
+Click J to start the events one by one.\
+Click J once you lost to restart the scene.\
+Then Click K to restart playing or during the events to restart placing blocks if you haven't placed them all!\
+Place the blocks carefully,\
+Survive!!!\
