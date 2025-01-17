@@ -18,6 +18,6 @@ Then Click K to restart playing or during the events to restart placing blocks i
 Place the blocks carefully,\
 Survive!!!\
 
-**Boring Information ahah*
+**Boring Information ahah**
 I'm so proud of this game, with this game I was able to learn a bit of javascript that I have never used before. I developed this game most of the time at school during some free hours and it was exciting doing it with my classmates that created their own game too. It was a beautiful experience and probably in the future I will publish some other funny game in order to play it on my sprig console.
 Now I'm making a video about this opportunity (like how the platform works...) and as soon as I will publish it in my YT channel I will link it here. The video will be in italian and I hope to make some people get interested in this type of things! (That's the porpuse of the channel actually). 
